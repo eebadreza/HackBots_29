@@ -1,4 +1,4 @@
-<img src="public/img/HackBots_Logo.jpeg" align="right" />  # HackBots
+<img src="" align="right" />  # HackBots
 
 This repo consists of all the items that we used at HackerWar3.0
 
