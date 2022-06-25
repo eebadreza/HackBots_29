@@ -1,4 +1,4 @@
-# HackBots
+<img src="public/img/HackBots_Logo.jpeg" align="right" />  # HackBots
 
 This repo consists of all the items that we used at HackerWar3.0
 
@@ -15,6 +15,12 @@ To provide a unique e-commerce platform for craftsmen to market their wares. Dem
 To globalise the Indian handicraft industry? Providing a shared platform for the creation, marketing, and sale of high-quality handicrafts and items.
 
 ## Our Solution ::
+
+## Launch Requirements ::
+
+## Illusterations :: 
+
+## Credits ::
 
 
  
