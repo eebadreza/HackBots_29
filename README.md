@@ -2,11 +2,12 @@
 
 This repo consists of all the items that we used at HackerWar3.0
 
-## Team Members/Contributers
-- 1.Eebad Reza
-- 2.Raj Aryan
-- 3.Aakriti Kumari
-- 4.Sneha Rani
+## Team Members / Contributers
+
+- Eebad Reza
+- Raj Aryan
+- Aakriti Kumari
+- Sneha Rani
 
 ## Problem Statement for Web Dev ::
 Over 23 million artisans work in the Indian handicraft and handloom industry. A cross-border e-commerce marketplace will bring customers and sellers together on a single business platform. It will aid in the expansion of their firm as well as the overall economy of our country.
