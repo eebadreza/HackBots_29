@@ -1,0 +1,17 @@
+{
+  "name": "hackbots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express.js": "^1.0.0",
+    "firebase": "^9.8.4",
+    "nodemon": "^2.0.18"
+  }
+}
