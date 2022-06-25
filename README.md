@@ -1,4 +1,6 @@
-<img src="public/img/mw1920_Illuminate_Banner.pn" align="right" width="100%" height="400"/>  # HackBots
+<img src="img/mw1920_Illuminate_Banner.pn" align="right" width="100%" height="400"/> 
+
+# HackBots
 
 This repo consists of all the items that we used at HackerWar3.0
 
