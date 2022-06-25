@@ -18,6 +18,7 @@ To provide a unique e-commerce platform for craftsmen to market their wares. Dem
 To globalise the Indian handicraft industry? Providing a shared platform for the creation, marketing, and sale of high-quality handicrafts and items.
 
 ## Our Solution ::
+We have built an e-commerce website using HTML, CSS & JS.
 
 ## Launch Requirements ::
 
