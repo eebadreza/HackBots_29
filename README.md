@@ -1,4 +1,4 @@
-<img src="public/img/mw1920_Illuminate_Banner.png" align="right" width="100%" height="400"/> 
+<img src="" align="right" width="100%" height="400"/> 
 
 # HackBots
 
