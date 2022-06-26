@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account</title>
+
+    <link rel="stylesheet" href="css/signup.css">
+</head>
+<body>
+    <!---Import the functions you need from the SDKs you need---> 
+  <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-app.js"></script>
+   <!--TODO: Add SDKs for Firebase products that you want to use---> 
+  <!--https://firebase.google.com/docs/web/setup#available-libraries---> 
+  <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.8.4/firebase-database.js"></script>
+  
+
+
+
+    <img src="img/loader.gif" class="loader" alt="">
+
+    <div class="container">
+        <img src="img/dark-logo.jpeg" class="logo" alt="">
+        <div>
+               <input type="text" autocomplete="off" id="name" placeholder="name">
+               <input type="email" autocomplete="off" id="email" placeholder="email">
+               <input type="password" autocomplete="off" id="password" placeholder="password">
+               <input type="number" autocomplete="off" id="number" placeholder="number">
+               <input type="checkbox" class="checkbox" id="terms-and-cond">
+              <label style="padding-left: 20px;" for="terms-and-cond">agree to our <a href="">terms and conditions</a></label>
+               
+              
+                <button  id="login_btn">Login</button>
+                <button id="register_btn">Register</button>
+          
+              
+        </div>
+        <a href="/login" class="link">Already have an account? Log in here</a>
+    </div>
+
+    <script src="js/signup.js"></script>
+</body>
+</html>
