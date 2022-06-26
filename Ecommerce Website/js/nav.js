@@ -18,7 +18,7 @@ const createNav = () => {
         <li class="link-item"><a href="index_handloom.html" class="link">Accessories</a></li>
         <li class="link-item"><a href="index_handicraft.html" class="link">Handicrafts</a></li>
         <li class="link-item"><a href="#footer-title" class="link">About Us</a></li>
-        <li class="link-item"><a href="#" class="link">Blog</a></li>
+        <li class="link-item"><a href="editor.html" class="link">Blog</a></li>
         </ul>
     `;
 }

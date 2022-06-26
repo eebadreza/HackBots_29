@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="editor.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog | The Crafty Indian</title>
+    
+</head>
+<body>
+    <div class="banner">
+        <input type="file" accept="image/*" id="banner-upload" hidden>
+        <lable for="banner-upload" class="banner-upload-btn"><img src="img/pexels-pixabay-262508.jpg" class="img" alt="upload banner"></lable>
+    </div>
+    <div class="blog">
+        <textarea type="text" class="title" placeholder="Blog title...."></textarea>
+        <textarea style="background-color: aliceblue;" type="text" class="article" placeholder="Start writing here...."></textarea>
+    </div>
+    <div class="blog-optiops">
+        <button class="btn dark publish-btn" style="background-color: white;">publish</button>
+        <input type="file" accept="image/*" id="image-upload" style="background-color:white;">
+        <label for="image-upload" class="btn grey upload-btn">Upload Image</label>
+    </div>
+    <script src="js/editor.js"></script>
+</body>
+</html>
