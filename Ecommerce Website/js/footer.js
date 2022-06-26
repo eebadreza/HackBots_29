@@ -33,13 +33,14 @@ const createFooter = () => {
             </ul>
         </div>
     </div>
-    <p class="footer-title">about company</p>
-    <p class="info">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat tempore ad suscipit, eos eius quisquam sed optio nisi quaerat fugiat ratione et vero maxime praesentium, architecto minima reiciendis iste quo deserunt assumenda alias ducimus. Ullam odit maxime id voluptates rerum tenetur corporis laboriosam! Cum error ipsum laborum tempore in rerum necessitatibus nostrum nobis modi! Debitis adipisci illum nemo aperiam sed, et accusamus ut officiis. Laborum illo exercitationem quo culpa reprehenderit excepturi distinctio tempore cupiditate praesentium nisi ut iusto, assumenda perferendis facilis voluptas autem fuga sunt ab debitis voluptatum harum eum. Asperiores, natus! Est deserunt incidunt quasi placeat omnis, itaque harum?</p>
+    <p class="footer-title" id="footer-title">about company</p>
+    <p class="info">The Crafty Indian is a startup made by budding entrepreneurs.
+    Here at The Crafty Indian we provide a platform for local sellers all over Indian to sell their products globally. For our online store, we have exercised great care in offering products across different price ranges that offer incredible value and quality for the price. <br><b>Every Purchase has a purpose<b></p>
     <p class="info">support emails - help@clothing.com, customersupport@clothing.com</p>
     <p class="info">telephone - 180 00 00 001, 180 00 00 002</p>
     <div class="footer-social-container">
         <div>
-            <a href="#" class="social-link">terms & services</a>
+            <a href="term.html" class="social-link">terms & services</a>
             <a href="#" class="social-link">privacy page</a>
         </div>
         <div>
