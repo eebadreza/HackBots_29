@@ -1,4 +1,4 @@
-<img src="" align="right" width="100%" height="400"/> 
+<img src="" allign="right" width="100%" height="400"/> 
 <br>
 
 # HackBots
