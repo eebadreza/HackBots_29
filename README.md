@@ -1,5 +1,3 @@
-<img src="" allign="right" width="100%" height="400"/> 
-<br>
 
 # HackBots
 
