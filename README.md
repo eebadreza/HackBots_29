@@ -10,7 +10,7 @@ Click Here :: [http://thecraftyindian.netlify.app/](http://thecraftyindian.netli
 
 ## Team Members / Contributers
 
-- Eebad Reza
+- Eebad Reza [L]
 - Raj Aryan
 - Aakriti Kumari
 - Sneha Rani
@@ -28,8 +28,7 @@ For the sale of high quality products we have verified the sellers both manually
 Our main slogan is Every Purchase has a purpose.
 
 ## Launch Requirements ::
-
-## Illusterations :: 
+Works in any Device with latest Web Browser and Internet connection.
 
 ## Credits ::
 
