@@ -1,5 +1,11 @@
 
-# HackBots
+<h1 align="center">
+  <br>
+  <a href="http://thecraftyindian.netlify.app/"><img src="Ecommerce Website/img/dark-logo.jpeg" alt="theCraftyIndian" width="400"></a>
+  <br>
+  The Crafty Indian by <i>HackBots</i>
+  <br>
+</h1>
 
 This repo consists of all the items that we used at HackerWar3.0
 
@@ -31,4 +37,5 @@ Works in any Device with latest Web Browser and Internet connection.
 ## Credits ::
 
 
- 
+
+#### Updates Coming soon 🙄!! 
