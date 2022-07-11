@@ -14,7 +14,11 @@ bannerImage.addEventListener('change',()=>{
 })
 const uploadImage=(uploadFile, uploadType)=>{
     const[file]=uploadFile.files;
+<<<<<<< Updated upstream:Ecommerce Website/js/editor.js
     if(file && file.tyoe.include("image")){
+=======
+    if(file && file.tyoe.include("image"){
+>>>>>>> Stashed changes:editor.js
         const formdata=new FormData();
         formdata.append('image', file);
 
