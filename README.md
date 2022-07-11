@@ -1,13 +1,20 @@
-<img src="" allign="right" width="100%" height="400"/> 
-<br>
 
-# HackBots
+<h1 align="center">
+  <br>
+  <a href="http://thecraftyindian.netlify.app/"><img src="Ecommerce Website/img/dark-logo.jpeg" alt="theCraftyIndian" width="400"></a>
+  <br>
+  The Crafty Indian by <i>HackBots</i>
+  <br>
+</h1>
 
 This repo consists of all the items that we used at HackerWar3.0
 
+## Our Website
+Click Here :: [http://thecraftyindian.netlify.app/](http://thecraftyindian.netlify.app/)
+
 ## Team Members / Contributers
 
-- Eebad Reza
+- Eebad Reza [L]
 - Raj Aryan
 - Aakriti Kumari
 - Sneha Rani
@@ -25,10 +32,10 @@ For the sale of high quality products we have verified the sellers both manually
 Our main slogan is Every Purchase has a purpose.
 
 ## Launch Requirements ::
-
-## Illusterations :: 
+Works in any Device with latest Web Browser and Internet connection.
 
 ## Credits ::
 
 
- 
+
+#### Updates Coming soon 🙄!! 
