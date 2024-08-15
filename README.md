@@ -34,8 +34,3 @@ Our main slogan is Every Purchase has a purpose.
 ## Launch Requirements ::
 Works in any Device with latest Web Browser and Internet connection.
 
-## Credits ::
-
-
-
-#### Updates Coming soon 🙄!! 
